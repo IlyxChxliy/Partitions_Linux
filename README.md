@@ -1,4 +1,6 @@
 # MBR_partitions
+Скачать OVA-файл с конфигурацией системы можно по ссылке: https://drive.google.com/file/d/13rPtFuT4oJjBHN-SftVPYz3vAGmYbdGm/view?usp=drive_link
+
 # Linux Disk Lab — MBR + 50 Logical Partitions (Debian 13)
 
 Подготовлена виртуальная машина Debian 13 с дополнительным диском, размеченным в формате **MBR (DOS)**.  

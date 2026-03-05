@@ -1,0 +1,66 @@
+Disk /dev/sdb: 45 GiB, 48318382080 bytes, 94371840 sectors
+Disk model: VBOX HARDDISK   
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x99c95f19
+
+Device     Boot    Start      End  Sectors  Size Id Type
+/dev/sdb1           2048 94371839 94369792   45G  f W95 Ext'd (LBA)
+/dev/sdb5           4096   296959   292864  143M 83 Linux
+/dev/sdb6         464896   866303   401408  196M 83 Linux
+/dev/sdb7        1243136  1347583   104448   51M 83 Linux
+/dev/sdb8        1550336  1763327   212992  104M 83 Linux
+/dev/sdb9        1986560  2277375   290816  142M 83 Linux
+/dev/sdb10       2736128  2971647   235520  115M 83 Linux
+/dev/sdb11       3440640  3876863   436224  213M 83 Linux
+/dev/sdb12       4063232  4546559   483328  236M 83 Linux
+/dev/sdb13       4888576  4990975   102400   50M 83 Linux
+/dev/sdb14       5167104  5384191   217088  106M 83 Linux
+/dev/sdb15       5632000  5791743   159744   78M 83 Linux
+/dev/sdb16       6049792  6361087   311296  152M 83 Linux
+/dev/sdb17       6619136  6735871   116736   57M 83 Linux
+/dev/sdb18       6891520  7335935   444416  217M 83 Linux
+/dev/sdb19       7684096  7809023   124928   61M 83 Linux
+/dev/sdb20       8189952  8353791   163840   80M 83 Linux
+/dev/sdb21       8792064  9099263   307200  150M 83 Linux
+/dev/sdb22       9402368  9631743   229376  112M 83 Linux
+/dev/sdb23       9752576 10215423   462848  226M 83 Linux
+/dev/sdb24      10520576 10840063   319488  156M 83 Linux
+/dev/sdb25      11235328 11423743   188416   92M 83 Linux
+/dev/sdb26      11757568 12023807   266240  130M 83 Linux
+/dev/sdb27      12378112 12554239   176128   86M 83 Linux
+/dev/sdb28      12857344 13109247   251904  123M 83 Linux
+/dev/sdb29      13211648 13393919   182272   89M 83 Linux
+/dev/sdb30      13723648 14000127   276480  135M 83 Linux
+/dev/sdb31      14317568 14721023   403456  197M 83 Linux
+/dev/sdb32      15089664 15532031   442368  216M 83 Linux
+/dev/sdb33      15882240 16310271   428032  209M 83 Linux
+/dev/sdb34      16596992 17004543   407552  199M 83 Linux
+/dev/sdb35      17139712 17287167   147456   72M 83 Linux
+/dev/sdb36      17786880 17948671   161792   79M 83 Linux
+/dev/sdb37      18089984 18343935   253952  124M 83 Linux
+/dev/sdb38      18546688 18782207   235520  115M 83 Linux
+/dev/sdb39      19077120 19210239   133120   65M 83 Linux
+/dev/sdb40      19517440 19922943   405504  198M 83 Linux
+/dev/sdb41      20299776 20549631   249856  122M 83 Linux
+/dev/sdb42      20723712 21004287   280576  137M 83 Linux
+/dev/sdb43      21346304 21821439   475136  232M 83 Linux
+/dev/sdb44      21925888 22228991   303104  148M 83 Linux
+/dev/sdb45      22736896 23222271   485376  237M 83 Linux
+/dev/sdb46      23404544 23654399   249856  122M 83 Linux
+/dev/sdb47      23887872 24041471   153600   75M 83 Linux
+/dev/sdb48      24303616 24414207   110592   54M 83 Linux
+/dev/sdb49      24733696 25061375   327680  160M 83 Linux
+/dev/sdb50      25294848 25683967   389120  190M 83 Linux
+/dev/sdb51      25956352 26347519   391168  191M 83 Linux
+/dev/sdb52      26691584 26935295   243712  119M 83 Linux
+/dev/sdb53      27092992 27377663   284672  139M 83 Linux
+/dev/sdb54      27738112 27858943   120832   59M 83 Linux
+/dev/sdb55      28315648 28555263   239616  117M 83 Linux
+/dev/sdb56      28950528 29165567   215040  105M 83 Linux
+/dev/sdb57      29378560 29564927   186368   91M 83 Linux
+/dev/sdb58      29691904 30148607   456704  223M 83 Linux
+/dev/sdb59      30644224 31148031   503808  246M 83 Linux
+/dev/sdb60      31479808 31852543   372736  182M 83 Linux

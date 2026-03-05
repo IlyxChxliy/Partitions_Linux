@@ -1,0 +1,66 @@
+Disk /dev/sdc: 20 GiB, 21474836480 bytes, 41943040 sectors
+Disk model: VBOX HARDDISK   
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0xedd0a5eb
+
+Device     Boot    Start      End  Sectors  Size Id Type
+/dev/sdc1           2048 41943039 41940992   20G  5 Extended
+/dev/sdc5           4096   108543   104448   51M 83 Linux
+/dev/sdc6         110592   493567   382976  187M 83 Linux
+/dev/sdc7         495616   987135   491520  240M 83 Linux
+/dev/sdc8         989184  1380351   391168  191M 83 Linux
+/dev/sdc9        1382400  1521663   139264   68M 83 Linux
+/dev/sdc10       1523712  1814527   290816  142M 83 Linux
+/dev/sdc11       1816576  1933311   116736   57M 83 Linux
+/dev/sdc12       1935360  2101247   165888   81M 83 Linux
+/dev/sdc13       2103296  2613247   509952  249M 83 Linux
+/dev/sdc14       2615296  2977791   362496  177M 83 Linux
+/dev/sdc15       2979840  3299327   319488  156M 83 Linux
+/dev/sdc16       3301376  3813375   512000  250M 83 Linux
+/dev/sdc17       3815424  3944447   129024   63M 83 Linux
+/dev/sdc18       3946496  4073471   126976   62M 83 Linux
+/dev/sdc19       4075520  4368383   292864  143M 83 Linux
+/dev/sdc20       4370432  4661247   290816  142M 83 Linux
+/dev/sdc21       4663296  5126143   462848  226M 83 Linux
+/dev/sdc22       5128192  5378047   249856  122M 83 Linux
+/dev/sdc23       5380096  5642239   262144  128M 83 Linux
+/dev/sdc24       5644288  6152191   507904  248M 83 Linux
+/dev/sdc25       6154240  6404095   249856  122M 83 Linux
+/dev/sdc26       6406144  6782975   376832  184M 83 Linux
+/dev/sdc27       6785024  7245823   460800  225M 83 Linux
+/dev/sdc28       7247872  7636991   389120  190M 83 Linux
+/dev/sdc29       7639040  8062975   423936  207M 83 Linux
+/dev/sdc30       8065024  8427519   362496  177M 83 Linux
+/dev/sdc31       8429568  8781823   352256  172M 83 Linux
+/dev/sdc32       8783872  9064447   280576  137M 83 Linux
+/dev/sdc33       9066496  9209855   143360   70M 83 Linux
+/dev/sdc34       9211904  9457663   245760  120M 83 Linux
+/dev/sdc35       9459712  9711615   251904  123M 83 Linux
+/dev/sdc36       9713664 10199039   485376  237M 83 Linux
+/dev/sdc37      10201088 10594303   393216  192M 83 Linux
+/dev/sdc38      10596352 11028479   432128  211M 83 Linux
+/dev/sdc39      11030528 11272191   241664  118M 83 Linux
+/dev/sdc40      11274240 11716607   442368  216M 83 Linux
+/dev/sdc41      11718656 12120063   401408  196M 83 Linux
+/dev/sdc42      12122112 12441599   319488  156M 83 Linux
+/dev/sdc43      12443648 12658687   215040  105M 83 Linux
+/dev/sdc44      12660736 13144063   483328  236M 83 Linux
+/dev/sdc45      13146112 13389823   243712  119M 83 Linux
+/dev/sdc46      13391872 13719551   327680  160M 83 Linux
+/dev/sdc47      13721600 14100479   378880  185M 83 Linux
+/dev/sdc48      14102528 14436351   333824  163M 83 Linux
+/dev/sdc49      14438400 14880767   442368  216M 83 Linux
+/dev/sdc50      14882816 15122431   239616  117M 83 Linux
+/dev/sdc51      15124480 15245311   120832   59M 83 Linux
+/dev/sdc52      15247360 15370239   122880   60M 83 Linux
+/dev/sdc53      15372288 15622143   249856  122M 83 Linux
+/dev/sdc54      15624192 15802367   178176   87M 83 Linux
+/dev/sdc55      15804416 15908863   104448   51M 83 Linux
+/dev/sdc56      15910912 16130047   219136  107M 83 Linux
+/dev/sdc57      16132096 16340991   208896  102M 83 Linux
+/dev/sdc58      16343040 16519167   176128   86M 83 Linux
+/dev/sdc59      16521216 16754687   233472  114M 83 Linux
+/dev/sdc60      16756736 17158143   401408  196M 83 Linux

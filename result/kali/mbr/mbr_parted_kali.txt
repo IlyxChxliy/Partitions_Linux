@@ -1,0 +1,65 @@
+Model: ATA VBOX HARDDISK (scsi)
+Disk /dev/sdc: 21.5GB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags: 
+
+Number  Start   End     Size    Type      File system  Flags
+ 1      1049kB  21.5GB  21.5GB  extended
+ 5      2097kB  55.6MB  53.5MB  logical
+ 6      56.6MB  253MB   196MB   logical
+ 7      254MB   505MB   252MB   logical
+ 8      506MB   707MB   200MB   logical
+ 9      708MB   779MB   71.3MB  logical
+10      780MB   929MB   149MB   logical
+11      930MB   990MB   59.8MB  logical
+12      991MB   1076MB  84.9MB  logical
+13      1077MB  1338MB  261MB   logical
+14      1339MB  1525MB  186MB   logical
+15      1526MB  1689MB  164MB   logical
+16      1690MB  1952MB  262MB   logical
+17      1953MB  2020MB  66.1MB  logical
+18      2021MB  2086MB  65.0MB  logical
+19      2087MB  2237MB  150MB   logical
+20      2238MB  2387MB  149MB   logical
+21      2388MB  2625MB  237MB   logical
+22      2626MB  2754MB  128MB   logical
+23      2755MB  2889MB  134MB   logical
+24      2890MB  3150MB  260MB   logical
+25      3151MB  3279MB  128MB   logical
+26      3280MB  3473MB  193MB   logical
+27      3474MB  3710MB  236MB   logical
+28      3711MB  3910MB  199MB   logical
+29      3911MB  4128MB  217MB   logical
+30      4129MB  4315MB  186MB   logical
+31      4316MB  4496MB  180MB   logical
+32      4497MB  4641MB  144MB   logical
+33      4642MB  4715MB  73.4MB  logical
+34      4716MB  4842MB  126MB   logical
+35      4843MB  4972MB  129MB   logical
+36      4973MB  5222MB  249MB   logical
+37      5223MB  5424MB  201MB   logical
+38      5425MB  5647MB  221MB   logical
+39      5648MB  5771MB  124MB   logical
+40      5772MB  5999MB  226MB   logical
+41      6000MB  6205MB  206MB   logical
+42      6207MB  6370MB  164MB   logical
+43      6371MB  6481MB  110MB   logical
+44      6482MB  6730MB  247MB   logical
+45      6731MB  6856MB  125MB   logical
+46      6857MB  7024MB  168MB   logical
+47      7025MB  7219MB  194MB   logical
+48      7220MB  7391MB  171MB   logical
+49      7392MB  7619MB  226MB   logical
+50      7620MB  7743MB  123MB   logical
+51      7744MB  7806MB  61.9MB  logical
+52      7807MB  7870MB  62.9MB  logical
+53      7871MB  7999MB  128MB   logical
+54      8000MB  8091MB  91.2MB  logical
+55      8092MB  8145MB  53.5MB  logical
+56      8146MB  8259MB  112MB   logical
+57      8260MB  8367MB  107MB   logical
+58      8368MB  8458MB  90.2MB  logical
+59      8459MB  8578MB  120MB   logical
+60      8579MB  8785MB  206MB   logical
+

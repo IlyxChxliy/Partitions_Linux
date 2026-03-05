@@ -1,0 +1,136 @@
+Model: ATA VBOX HARDDISK (scsi)
+Disk /dev/sdb: 48.3GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End     Size    File system  Name     Flags
+ 1      1049kB  174MB   173MB                primary
+ 2      174MB   388MB   214MB                primary
+ 3      388MB   631MB   243MB                primary
+ 4      631MB   775MB   144MB                primary
+ 5      775MB   949MB   174MB                primary
+ 6      949MB   1210MB  261MB                primary
+ 7      1210MB  1417MB  207MB                primary
+ 8      1417MB  1521MB  105MB                primary
+ 9      1521MB  1699MB  177MB                primary
+10      1699MB  1772MB  73.4MB               primary
+11      1772MB  2017MB  245MB                primary
+12      2017MB  2100MB  82.8MB               primary
+13      2100MB  2171MB  70.3MB               primary
+14      2171MB  2403MB  233MB                primary
+15      2403MB  2648MB  244MB                primary
+16      2648MB  2801MB  153MB                primary
+17      2801MB  2986MB  186MB                primary
+18      2986MB  3171MB  185MB                primary
+19      3171MB  3302MB  131MB                primary
+20      3302MB  3455MB  153MB                primary
+21      3455MB  3520MB  65.0MB               primary
+22      3520MB  3628MB  108MB                primary
+23      3628MB  3885MB  257MB                primary
+24      3885MB  3946MB  60.8MB               primary
+25      3946MB  4045MB  99.6MB               primary
+26      4045MB  4225MB  179MB                primary
+27      4225MB  4417MB  192MB                primary
+28      4417MB  4611MB  194MB                primary
+29      4611MB  4676MB  65.0MB               primary
+30      4676MB  4753MB  77.6MB               primary
+31      4753MB  4881MB  128MB                primary
+32      4881MB  5079MB  198MB                primary
+33      5079MB  5205MB  126MB                primary
+34      5205MB  5430MB  224MB                primary
+35      5430MB  5565MB  135MB                primary
+36      5565MB  5679MB  114MB                primary
+37      5679MB  5885MB  206MB                primary
+38      5885MB  6104MB  219MB                primary
+39      6104MB  6167MB  62.9MB               primary
+40      6167MB  6338MB  171MB                primary
+41      6338MB  6461MB  124MB                primary
+42      6461MB  6620MB  158MB                primary
+43      6620MB  6734MB  114MB                primary
+44      6734MB  6889MB  155MB                primary
+45      6889MB  6947MB  57.7MB               primary
+46      6947MB  7055MB  108MB                primary
+47      7055MB  7255MB  200MB                primary
+48      7255MB  7335MB  79.7MB               primary
+49      7335MB  7540MB  206MB                primary
+50      7540MB  7670MB  130MB                primary
+51      7670MB  7895MB  224MB                primary
+52      7895MB  8074MB  179MB                primary
+53      8074MB  8292MB  218MB                primary
+54      8292MB  8351MB  58.7MB               primary
+55      8351MB  8540MB  189MB                primary
+56      8540MB  8693MB  153MB                primary
+57      8693MB  8842MB  149MB                primary
+58      8842MB  9086MB  244MB                primary
+59      9086MB  9291MB  206MB                primary
+60      9291MB  9403MB  111MB                primary
+61      9403MB  9659MB  257MB                primary
+62      9659MB  9816MB  156MB                primary
+63      9816MB  9941MB  125MB                primary
+64      9941MB  10.0GB  90.2MB               primary
+65      10.0GB  10.2GB  181MB                primary
+66      10.2GB  10.4GB  180MB                primary
+67      10.4GB  10.5GB  110MB                primary
+68      10.5GB  10.6GB  71.3MB               primary
+69      10.6GB  10.8GB  209MB                primary
+70      10.8GB  10.9GB  82.8MB               primary
+71      10.9GB  11.0GB  136MB                primary
+72      11.0GB  11.1GB  89.1MB               primary
+73      11.1GB  11.3GB  231MB                primary
+74      11.3GB  11.5GB  143MB                primary
+75      11.5GB  11.5GB  68.2MB               primary
+76      11.5GB  11.8GB  245MB                primary
+77      11.8GB  12.0GB  254MB                primary
+78      12.0GB  12.2GB  130MB                primary
+79      12.2GB  12.4GB  228MB                primary
+80      12.4GB  12.6GB  233MB                primary
+81      12.6GB  12.8GB  141MB                primary
+82      12.8GB  12.9GB  172MB                primary
+83      12.9GB  13.1GB  200MB                primary
+84      13.1GB  13.4GB  228MB                primary
+85      13.4GB  13.6GB  189MB                primary
+86      13.6GB  13.7GB  173MB                primary
+87      13.7GB  13.8GB  107MB                primary
+88      13.8GB  14.0GB  122MB                primary
+89      14.0GB  14.2GB  238MB                primary
+90      14.2GB  14.3GB  107MB                primary
+91      14.3GB  14.5GB  191MB                primary
+92      14.5GB  14.7GB  176MB                primary
+93      14.7GB  14.7GB  56.6MB               primary
+94      14.7GB  14.8GB  58.7MB               primary
+95      14.8GB  15.0GB  230MB                primary
+96      15.0GB  15.2GB  192MB                primary
+97      15.2GB  15.4GB  172MB                primary
+98      15.4GB  15.5GB  99.6MB               primary
+99      15.5GB  15.6GB  80.7MB               primary
+100     15.6GB  15.8GB  258MB                primary
+101     15.8GB  16.0GB  206MB                primary
+102     16.0GB  16.3GB  234MB                primary
+103     16.3GB  16.3GB  52.4MB               primary
+104     16.3GB  16.5GB  237MB                primary
+105     16.5GB  16.8GB  243MB                primary
+106     16.8GB  16.9GB  161MB                primary
+107     16.9GB  17.1GB  106MB                primary
+108     17.1GB  17.1GB  82.8MB               primary
+109     17.1GB  17.3GB  168MB                primary
+110     17.3GB  17.4GB  146MB                primary
+111     17.4GB  17.7GB  252MB                primary
+112     17.7GB  17.9GB  191MB                primary
+113     17.9GB  18.1GB  169MB                primary
+114     18.1GB  18.2GB  104MB                primary
+115     18.2GB  18.3GB  90.2MB               primary
+116     18.3GB  18.4GB  155MB                primary
+117     18.4GB  18.6GB  193MB                primary
+118     18.6GB  18.8GB  152MB                primary
+119     18.8GB  19.0GB  251MB                primary
+120     19.0GB  19.2GB  217MB                primary
+121     19.2GB  19.4GB  216MB                primary
+122     19.4GB  19.7GB  222MB                primary
+123     19.7GB  19.8GB  168MB                primary
+124     19.8GB  20.0GB  180MB                primary
+125     20.0GB  20.2GB  201MB                primary
+126     20.2GB  20.3GB  96.5MB               primary
+127     20.3GB  20.5GB  215MB                primary
+128     20.5GB  20.7GB  152MB                primary
+

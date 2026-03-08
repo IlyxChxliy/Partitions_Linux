@@ -23,11 +23,11 @@
 
 Debian VM (OVA)
 Скачать:
-`<ссылка>`
+`<[ссылка](https://drive.google.com/file/d/13HkMIVuCLmejE6S1v5PEih5hrW3JklZg/view?usp=sharing)>`
 
 Kali Linux VM (OVA)
 Скачать:
-`<ссылка>`
+`<[ссылка](https://drive.google.com/file/d/1KsAgl5IXu0u863PX3x9rqglZpo8TwbsI/view?usp=sharing)>`
 
 ---
 

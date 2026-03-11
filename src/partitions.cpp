@@ -66,7 +66,7 @@ public:
 class MBRTable : public PartitionTable {
 private:
     static bool isExtendedType(uint8_t type) {
-        return type == 0x05  type == 0x0F  type == 0x85;
+        return type == 0x05 || type == 0x0F || type == 0x85;
     }
 
     static std::string typeToString(uint8_t type) {
